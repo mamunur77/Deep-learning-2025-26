@@ -1,16 +1,18 @@
-📌 Overview
+
+<h1>📌 Overview</h1>
 
 This repository contains a collection of Jupyter Notebooks demonstrating practical implementations of Machine Learning and introductory Deep Learning concepts.
 The work focuses on data preprocessing, supervised learning, unsupervised learning, ensemble methods, and neural networks, using standard Python ML libraries.
 
 
-📂 File Structure
-1. Machine_Learning_Lab_.ipynb
 
+<h1>📂 File Structure</h1>
+
+<h2>1. Machine_Learning_Lab_.ipynb</h2>
 This notebook covers fundamental Machine Learning concepts with hands-on implementations and visualizations.
 
-🔑 Key Concepts Covered:
 
+<h3>🔑 Key Concepts Covered:</h3>
 Data Preprocessing
 
 Handling missing values
@@ -47,11 +49,12 @@ Confusion Matrix
 
 Classification Report
 
-2. KNN.ipynb
+
+<h2>2. KNN.ipynb</h2>
 
 This notebook focuses specifically on the K-Nearest Neighbors (KNN) algorithm, explaining its working through implementation and visualization.
 
-🔑 Key Concepts Covered:
+<h3>🔑 Key Concepts Covered:</h3>
 
 Understanding KNN algorithm
 
@@ -65,11 +68,12 @@ Model accuracy evaluation
 
 Visualization of results
 
-3. DEEP_learning.ipynb
+
+<h2>3. DEEP_learning.ipynb</h2>
 
 This notebook introduces basic Deep Learning concepts using TensorFlow and Keras.
 
-🔑 Key Concepts Covered:
+<h3>🔑 Key Concepts Covered:</h3>
 
 Introduction to Neural Networks
 
@@ -101,8 +105,8 @@ For Deep Learning:
 
 pip install tensorflow keras
 
-📊 Datasets Used
 
+<h1>📊 Datasets Used</h1>
 Built-in datasets from scikit-learn:
 
 Iris Dataset
@@ -119,8 +123,8 @@ CSV-based datasets for regression and classification
 
 
 
-🎯 Objective
 
+<h1>🎯 Objective</h1>
 To gain hands-on experience with Machine Learning algorithms
 
 To understand KNN and model evaluation techniques
